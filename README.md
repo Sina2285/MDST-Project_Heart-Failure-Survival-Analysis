@@ -1,4 +1,4 @@
-# Michigan Data Science Team Project
+# Winter 2026, Michigan Data Science Team Project
 
 Title: Heart-Failure-Survival-Analysis
 
