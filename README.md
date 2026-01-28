@@ -27,10 +27,7 @@ Through this tutorial series, students will:
 |------|-------|-------------|--------------|
 | 1 | Data Exploration | Dataset overview, visualization, and initial insights | Pandas, Seaborn, Matplotlib, EDA |
 | 2 | Statistical Analysis | Hypothesis testing, correlation, and feature importance | T-test, Mann-Whitney U, FDR, Random Forest |
-| 3 | Feature Engineering | Feature selection and transformation | VIF, Scaling, Encoding |
-| 4 | Machine Learning | Classification models and evaluation | Logistic Regression, SVM, Decision Trees |
-| 5 | Deep Learning | Neural network classifiers | TensorFlow/PyTorch, MLP |
-| 6 | Final Analysis | Model comparison and key findings | ROC-AUC, Precision-Recall, Feature Analysis |
+| 3+ | TBD | Coming soon | - |
 
 ---
 
