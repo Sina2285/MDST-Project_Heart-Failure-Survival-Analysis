@@ -27,7 +27,6 @@ Through this tutorial series, students will:
 |------|-------|-------------|--------------|
 | 1 | Data Exploration | Dataset overview, visualization, and initial insights | Pandas, Seaborn, Matplotlib, EDA |
 | 2 | Statistical Analysis | Hypothesis testing, correlation, and feature importance | T-test, Mann-Whitney U, FDR, Random Forest |
-| 3+ | TBD | Coming soon | - |
 
 ---
 
@@ -82,4 +81,4 @@ jupyter notebook
 
 ## License
 
-This project is for educational purposes as part of the Michigan Data Science Team curriculum.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
